@@ -1,3 +1,6 @@
 #!/bin/bash
-ls -laN
+ls -l
+ls -ln
+ls -a
+
 
